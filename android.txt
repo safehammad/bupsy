@@ -1,0 +1,3 @@
+title=Bupsy
+author=Safe Hammad
+orientation=landscape
